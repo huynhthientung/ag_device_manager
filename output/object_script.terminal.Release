@@ -1,0 +1,17 @@
+release/debug.o
+release/dmxconsole.o
+release/ledrgbold.o
+release/loadingdialog.o
+release/main.o
+release/mainwindow.o
+release/qtdmxlib.o
+release/settingsdialog.o
+release/console.o
+release/qrc_terminal.o
+release/moc_dmxconsole.o
+release/moc_ledrgbold.o
+release/moc_loadingdialog.o
+release/moc_mainwindow.o
+release/moc_qtdmxlib.o
+release/moc_settingsdialog.o
+release/moc_console.o

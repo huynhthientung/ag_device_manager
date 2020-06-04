@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/connect.png</file>
+        <file>images/disconnect.png</file>
+        <file>images/application-exit.png</file>
+        <file>images/settings.png</file>
+        <file>images/clear.png</file>
+        <file>images/scan.png</file>
+        <file>images/stop.png</file>
+        <file>images/downloadfull.png</file>
+        <file>images/waiting.gif</file>
+        <file>images/Account and Control.png</file>
+        <file>images/AG-logo.png</file>
+    </qresource>
+</RCC>

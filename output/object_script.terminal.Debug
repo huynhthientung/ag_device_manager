@@ -1,0 +1,17 @@
+debug/debug.o
+debug/dmxconsole.o
+debug/ledrgbold.o
+debug/loadingdialog.o
+debug/main.o
+debug/mainwindow.o
+debug/qtdmxlib.o
+debug/settingsdialog.o
+debug/console.o
+debug/qrc_terminal.o
+debug/moc_dmxconsole.o
+debug/moc_ledrgbold.o
+debug/moc_loadingdialog.o
+debug/moc_mainwindow.o
+debug/moc_qtdmxlib.o
+debug/moc_settingsdialog.o
+debug/moc_console.o
